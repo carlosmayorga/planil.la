@@ -1,18 +1,7 @@
-# MIS - Calidad de software #
-
-
-
-### Descripción ###
-
-* WIP (Arles  / Carlos M.)
-
-### Prerequisito ###
-WIP
-
+# MIS #
 
 ### Configuración Incial ###
 
-WIP
 - Crear credencias de git en TFS
 - Clonar repositorio
 - Mysql
@@ -43,8 +32,6 @@ WIP
 	* (Opcional) Mysql [workbench](https://dev.mysql.com/doc/workbench/en/wb-installing.html) (GUI de administracion)
 
 ### Equipo ###
-
-WIP
 
 ### git [gitflow](https://danielkummer.github.io/git-flow-cheatsheet/) ###
 * master : branch en produción
